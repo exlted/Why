@@ -41,7 +41,7 @@
     <Compile Include="Dependancies\Assets.cs" />
     <Compile Include="Objects\Player.cs" />
     <Compile Include="Game1.cs" />
-    <Compile Include="Level.cs" />
+    <Compile Include="Objects\Level.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
